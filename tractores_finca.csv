@@ -1,0 +1,7 @@
+﻿id_tractor,marca,modelo,ano,horas_motor,combustible,potencia_hp,ultimo_mantenimiento,operador_asignado,estado
+201,John Deere,5075E,2018,3500,Diesel,75,2023-11-01,Juan,Operativo
+202,Massey Ferguson,4710,2015,5200,Diesel,100,2023-10-15,Pedro,En reparacion
+203,New Holland,T6.145,2020,1800,Diesel,145,2023-12-01,Luis,Operativo
+204,John Deere,6120M,2021,1200,Diesel,120,2024-01-05,Carlos,Operativo
+205,Valtra,A424,2019,2500,Diesel,100,2023-11-20,Juan,Operativo
+206,Massey Ferguson,5713,2017,4000,Diesel,110,2023-12-10,Pedro,Operativo
